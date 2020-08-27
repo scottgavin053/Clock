@@ -64,5 +64,6 @@ int main() {
             addTime += 1;
         }
         counter = 0;
+        int i;
     }
 }
